@@ -18,6 +18,11 @@
     "react-dom": "^18",
     "sass": "^1.79.4"
   },
+  "resolutions": {
+  "@next/swc-linux-x64-musl": "12.1.6",
+  "@next/swc-linux-arm64-gnu": "12.1.6",
+  "@next/swc-darwin-x64": "12.1.6"
+},
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
