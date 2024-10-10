@@ -12,9 +12,11 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "design-system-ticket-sports": "^1.2.116",
     "next": "14.2.15",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "sass": "^1.79.4"
   },
   "devDependencies": {
     "@types/node": "^20",
