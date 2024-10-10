@@ -1,7 +1,7 @@
 {
   "name": "ds-ticket",
   "version": "0.1.0",
-  "homepage": "https://<seu-username>.github.io/<nome-do-repositorio>",
+  "homepage": "https://lucaswallacets.github.io/ds-ticket",
   "private": true,
   "scripts": {
     "dev": "next dev",
